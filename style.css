@@ -1,0 +1,42 @@
+body
+{
+    background-size: cover;
+}
+
+.note
+{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+}
+
+.heading
+{
+    font-size: 32px;
+    width: 100%;
+    margin: 0px;
+}
+
+#Start , #status , #status_objects
+{
+    font-size: 18px;
+}
+
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 200px;
+}
+
+h4
+{
+    color: black;
+}
+
+input
+{
+    width: 800px;
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+    height: 30px;
+}
